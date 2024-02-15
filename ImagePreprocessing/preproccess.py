@@ -34,7 +34,7 @@ gray = cv2.cvtColor(image, cv2.COLOR_RGB2GRAY)
 
 cv2.imshow('gray scale', gray)
 
-#Histogram Normailization
+#Histogram Normalization
 dst = cv2.equalizeHist(gray)
 cv2.imshow('histogram normailization', dst)
 cv2.imwrite('img1652-preprocessed.png',dst)

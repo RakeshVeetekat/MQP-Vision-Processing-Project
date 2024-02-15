@@ -1,0 +1,9 @@
+packages needed
+tensorflow
+sklearn
+pandas
+matplotlib
+seaborn
+
+How to run
+run command python trainNN.py

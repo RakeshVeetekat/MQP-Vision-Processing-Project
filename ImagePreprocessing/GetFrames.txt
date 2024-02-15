@@ -1,0 +1,8 @@
+Packages needed
+cv2
+pandas
+
+
+How to run
+1. update lines 5 and 7 with information needed
+2. run command python GetFrames.py

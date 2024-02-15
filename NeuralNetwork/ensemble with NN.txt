@@ -1,0 +1,12 @@
+Packages needed
+numpy
+tensorflow
+sklearn
+matplotlib
+pandas
+cv2
+
+How to run
+1. put images to read in line 13 and 14
+2. change lines 16,17, and 18 to reflect the type of image pair
+3. run command python ensemble_with_NN.py

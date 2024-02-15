@@ -1,0 +1,7 @@
+Packages needed
+cv2
+numpy
+
+how to run
+1. update lines 5 and 6 with the two images to match
+2. run command python ensemble_with_dis.pyS
